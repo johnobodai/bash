@@ -21,5 +21,5 @@ echo "This is a string: $COLOUR"        # displays content of variable
 echo "And this is a number: $VALUE"     # display content of variable
 echo
 
-echo "I'm giving you bacj your promt now."
+echo "I'm giving you back your promt now."
 echo
